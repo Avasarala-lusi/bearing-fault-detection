@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+data/raw/
+data.zip
+*.mat
+*.npz
+feature_time_*.csv
+
+.kaggle/
+.cache/
